@@ -16,3 +16,10 @@ The objective of this project is the analyze the impact events, holidays, and di
 - Used R for all analysis and visualization
 - Statistical Model: Linear Regression
 - The project write-up is published on [Kaggle](https://www.kaggle.com/code/matthewbengtson/predicting-future-sales-of-fast-food)
+
+## [Project 3: Analyzing Impact of Sales Methods](https://github.com/mattbeng5/Sales-Method-Impact)
+
+The purpose of this project is to assess the impact different sales methods have on revenue.
+- Data taken from product_sales and contains sales data from 3 seperate sales methods
+- Used R for all analysis and visualization
+- The project write-up is published on [Kaggle](https://www.kaggle.com/code/matthewbengtson/sales-method-impact)
