@@ -23,3 +23,10 @@ The purpose of this project is to assess the impact different sales methods have
 - Data taken from product_sales and contains sales data from 3 seperate sales methods
 - Used R for all analysis and visualization
 - The project write-up is published on [Kaggle](https://www.kaggle.com/code/matthewbengtson/sales-method-impact)
+
+## [Project 4: Analyzing Motorcycle Part Sales](https://github.com/mattbeng5/Analyzing-Motorcycle-Part-Sales/blob/main/README.md)
+
+The purpose of this project is to analyze the sales data of three warehouses selling motorcycle parts at wholesale and retail. 
+- Data taken from sales.csv
+- Used SQL for all analysis
+- All SQL code outputs stored in project as CSV files
