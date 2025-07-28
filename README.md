@@ -2,7 +2,11 @@
 
 ## [Project 1: Gamezone Sales Dashboard](https://github.com/mattbeng5/Gamezone-Sales-Dashboard)
 
-
+The objective of this project is to create an interactive dashboard in Power BI visualizing sales over product, region, and time. 
+  - Data taken from orders.csv and region.csv
+  - Used Excel for Data Cleaning, SQL for Analysis, and Power BI for visualization
+  - Used analysis results to deliver tailored recomendations for marketing, finance, operations, and analytics teams
+    
 ## [Project 2: Statistical Modeling and Simpson's Paradox](https://github.com/mattbeng5/Statistical-Testing-and-Simpson-s-Paradox)
 
 The objective of this project is to create logistic regression models to analyze effectiveness of kidney stone treatements.
